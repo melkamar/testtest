@@ -1,22 +1,18 @@
-# testtest
-
-This is a text.
-
-[nějaký link](#tvorba-uživatelského-rozhraní-bi-tur3)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lacinia risus id elit ultricies facilisis. Donec pretium, nibh ut accumsan hendrerit, sapien ante dapibus felis, pellentesque lobortis magna leo eu enim. Cras tincidunt tincidunt pulvinar. Nullam vehicula, nisi quis placerat molestie, lorem dolor dapibus diam, in convallis purus tellus quis est. Donec eget maximus quam. Maecenas pretium, libero ac facilisis ornare, lectus augue volutpat lacus, id porttitor nisi ex elementum odio. Nunc pulvinar leo ante, ac lobortis velit placerat lacinia. Nulla tortor mi, aliquet at turpis eu, volutpat placerat arcu. Suspendisse sagittis massa metus, at semper sapien fringilla sit amet. Vivamus et sapien blandit sapien vulputate tempor. Maecenas quis sodales dolor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam gravida sagittis egestas. Duis quis dolor interdum, iaculis arcu vitae, sodales orci. Vestibulum tempus metus orci, eu ultrices felis porta vitae. Praesent arcu felis, malesuada ut gravida vitae, sodales quis purus.
-
-Nulla dignissim libero eu tortor interdum tempor. Nulla convallis leo eget est interdum, eu facilisis tellus mollis. Pellentesque rutrum iaculis eros, vel aliquet nisi tempor eleifend. Nullam eget luctus ligula, ut laoreet risus. Nullam augue diam, pellentesque id ligula sed, finibus lacinia leo. Pellentesque non arcu tristique, viverra tortor ac, gravida sapien. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi molestie imperdiet bibendum. Etiam gravida sit amet mi efficitur finibus. Curabitur efficitur felis non libero viverra laoreet. Nullam eu nulla risus.
-
-Maecenas ligula enim, imperdiet ac nibh eu, ultrices dignissim erat. Aenean semper nibh ante, at pellentesque ante mollis vulputate. Nunc sed ullamcorper dolor, ut dignissim libero. Maecenas iaculis facilisis sagittis. Pellentesque iaculis fermentum neque at sodales. Suspendisse velit mi, malesuada vitae maximus vel, mollis ornare nisi. Morbi condimentum rhoncus pulvinar. Integer quis lacus lobortis, rutrum magna ut, tincidunt nunc. Proin nec erat quis nunc mollis tristique.
-
-Quisque sed iaculis sem. Praesent sed nunc ex. Aenean non nisl massa. Pellentesque facilisis malesuada turpis eget feugiat. Fusce posuere lorem lobortis leo tristique, ac elementum metus mattis. Morbi vulputate lacus at urna bibendum, sed tincidunt ligula fringilla. Pellentesque pellentesque iaculis vulputate. Nullam tincidunt tincidunt pharetra.
-
-Integer rhoncus magna nec ornare viverra. Duis condimentum gravida sem, sit amet congue magna venenatis nec. Nullam tristique erat tempus tristique cursus. Vestibulum eu ex at ligula aliquam egestas sit amet at purus. Fusce viverra pulvinar velit, eu condimentum tellus eleifend ut. Donec sit amet congue libero, fringilla ullamcorper elit. Vestibulum tincidunt lectus sit amet enim mattis lacinia. Fusce sit amet volutpat arcu. Sed pulvinar elit eget turpis malesuada finibus. Donec finibus efficitur neque, id scelerisque ex faucibus id. Praesent imperdiet a neque id blandit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras tristique tincidunt quam id sodales.
-
-### Tvorba uživatelského rozhraní (BI-TUR3)
-
-
-|||||
-|---|---|---|---|
-|AAA|AAA|AAA|AAA|
+| | | | | | | | | | | | | | | | |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|[BI-ACM2](#programovací-praktika-bi-acm2) | [BI-A1L](#anglický-jazyk-1-2-bi-a1l) | [BI-PWT](#podnikové-webové-technologie-bi-pwt) | [BI-ZRS](#základy-řízení-systému-bi-zrs)|
+|[BI-AG2](#algoritmy-a-grafy-2-bi-ag2) | [BI-A2L](#anglický-jazyk-pro-it-bi-a2l) | [BI-PYT](#programování-v-pythonu-bi-pyt) | [BI-ADU.1](#administrace-os-unix-bi-adu.1)|
+|[BI-EP2](#efektivní-programování-2-bi-ep2) | [BI-CS1](#programování-v-c#-bi-cs1) | [BI-SEP](#světová-ekonomika-a-podnikání-i.-bi-sep) | [BI-BEK](#bezpečný-kód-bi-bek)|
+|[BI-GRA](#grafové-algoritmy-a-základy-teorie-složitosti-bi-gra) | [BI-CS3](#jazyk-c#---tvorba-webových-aplikací-bi-cs3) | [BI-SI1.2](#softwarové-inženýrství-i-bi-si1.2) | [BI-BEZ](#bezpečnost-bi-bez)|
+|[BI-PA2](#programování-a-algoritmizace-2-bi-pa2) | [BI-DBS](#databázové-systémy-bi-dbs) | [BI-SP1](#softwarový-týmový-projekt-1-bi-sp1) | [BI-EHA](#etické-hackování,-ethical-hacking-bi-eha)|
+|[BI-PJP](#programovací-jazyky-a-překladače-bi-pjp) | [BI-EJA](#enterprise-java-bi-eja) | [BI-VWM](#vyhledávání-na-webu-a-v-multimed.-db-bi-vwm) | [BI-OSY](#operační-systémy-bi-osy)|
+|[BI-TED](#tvorba-elektronické-dokumentace-bi-ted) | [BI-EMP](#ekonomické-a-manažerské-principy-bi-emp) | [BI-WT2](#webové--technologie-2-bi-wt2) | [BI-PSI](#počítačové-sítě-bi-psi)|
+|[BI-TEX](#typografie-a-tex-bi-tex) | [BI-FIP](#účetnictví-a-finance-podniku-bi-fip) | [BI-XML](#technologie-xml-bi-xml) | [BI-PS2](#programování-v-shellu-2-bi-ps2)|
+|[BI-TS4](#teoretický-seminář-iv-bi-ts4) | [BI-GIT](#systém-pro-správu-verzí-git-bi-git) | [BI-ZNF](#základy-programování-v-nette-bi-znf) | [BI-ST2](#síťové-technologie-2-bi-st2)|
+|[BI-VZD](#vytěžování-znalostí-z-dat-bi-vzd) | [BI-MMP](#multimediální-týmový-projekt-bi-mmp) | [BI-ZWU](#základy-webu-a-uživatelská-rozhraní-bi-zwu) | [BI-ST4](#síťové-technologie-4-bi-st4)|
+|[BI-ZUM](#základy-umělé-inteligence-bi-zum) | [BI-OPJ](#objektové-programování-v-javě-bi-opj) | [BI-3DT.1](#3d-tisk-bi-3dt.1) | [BI-ALO](#algebra-a-logika-bi-alo)|
+|[BI-AND](#programování-pro-operační-systém-android-bi-and) | [BI-PGR.1](#počítačová-grafika-bi-pgr.1) | [BI-ARD](#interaktivní-aplikace-s-arduinem-bi-ard) | [BI-HMI](#historie-matematiky-a-informatiky-bi-hmi)|
+|[BI-ANG](#zkouška-z-angličtiny-po-zápočtu-z-bi-a2l-bi-ang) | [BI-PJS.1](#programování-v-jazyku-javascript-bi-pjs.1) | [BI-SAP](#struktura-a-architektura-počítačů-bi-sap) | [BI-LIN](#lineární-algebra-bi-lin)|
+|[BI-ANG1](#zkouška-z-angličtiny-bez-přípravných-kurzů-bi-ang1) | [BI-PJV](#programování-v-javě-bi-pjv) | [BI-SRC](#systémy-reálného-času-bi-src) | [BI-VMM](#vybrané-matematické-metody-bi-vmm)|
+|[BI-AWD](#administrace-webového-a-db-serveru-bi-awd) | [BI-PPR](#projekt,-prezentace-a-rétorika-bi-ppr) | [BI-TUR](#tvorba-uživatelského-rozhraní-bi-tur)|
+|[BI-A0L](#anglický-jazyk-0-2-bi-a0l) | [BI-PRP](#právo-a-podnikání-bi-prp) | [BI-VES](#vestavné-systémy-bi-ves)|
