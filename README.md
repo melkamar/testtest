@@ -1,5 +1,5 @@
-| | | | | | | | | | | | | | | | |
-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+| | | | |
+|-|-|-|-|
 |[BI-3DT.1](#3d-tisk-bi-3dt.1) | [BI-CS3](#jazyk-c#---tvorba-webových-aplikací-bi-cs3) | [BI-PJP](#programovací-jazyky-a-překladače-bi-pjp) | [BI-TED](#tvorba-elektronické-dokumentace-bi-ted)|
 |[BI-A0L](#anglický-jazyk-0-2-bi-a0l) | [BI-DBS](#databázové-systémy-bi-dbs) | [BI-PJS.1](#programování-v-jazyku-javascript-bi-pjs.1) | [BI-TEX](#typografie-a-tex-bi-tex)|
 |[BI-A1L](#anglický-jazyk-1-2-bi-a1l) | [BI-EHA](#etické-hackování,-ethical-hacking-bi-eha) | [BI-PJV](#programování-v-javě-bi-pjv) | [BI-TS4](#teoretický-seminář-iv-bi-ts4)|
