@@ -2,7 +2,7 @@
 
 This is a text.
 
-[nějaký link](#tvorba-uzivatelskeho-rozhrani-bi-tur)
+[nějaký link](#tvorba-uživatelského-rozhraní-bi-tur)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lacinia risus id elit ultricies facilisis. Donec pretium, nibh ut accumsan hendrerit, sapien ante dapibus felis, pellentesque lobortis magna leo eu enim. Cras tincidunt tincidunt pulvinar. Nullam vehicula, nisi quis placerat molestie, lorem dolor dapibus diam, in convallis purus tellus quis est. Donec eget maximus quam. Maecenas pretium, libero ac facilisis ornare, lectus augue volutpat lacus, id porttitor nisi ex elementum odio. Nunc pulvinar leo ante, ac lobortis velit placerat lacinia. Nulla tortor mi, aliquet at turpis eu, volutpat placerat arcu. Suspendisse sagittis massa metus, at semper sapien fringilla sit amet. Vivamus et sapien blandit sapien vulputate tempor. Maecenas quis sodales dolor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam gravida sagittis egestas. Duis quis dolor interdum, iaculis arcu vitae, sodales orci. Vestibulum tempus metus orci, eu ultrices felis porta vitae. Praesent arcu felis, malesuada ut gravida vitae, sodales quis purus.
 
